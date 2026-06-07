@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Text converter rendering alphanumeric codes to traditional morse notation.
+  name: morse-code-translator version: 1.0 type: Repository author: VarshuAi description: >   Text converter rendering alphanumeric codes to traditional morse notation. primary_tech: CSS
 primary_tech: CSS
 ```
 
